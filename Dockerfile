@@ -6,4 +6,4 @@ COPY tomcat.txt /etc/facter/facts.d/
 
 COPY code/environments/production /etc/puppet
 
-RUN puppet apply /etc/puppet/code/manifests/site.pp
+RUN puppet apply /etc/puppet/manifests/site.pp
