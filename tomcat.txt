@@ -1,1 +1,2 @@
 role=docker_tomcat
+role_group=crais
