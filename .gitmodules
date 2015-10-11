@@ -1,4 +1,4 @@
 [submodule "production"]
 	path = code/environments/production
 	url = https://github.com/azcender/puppet-r10k-environment.git
-	branch = docker
+	branch = staging
